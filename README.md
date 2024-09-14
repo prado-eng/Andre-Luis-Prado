@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Prado
-- 👀 I’m interested in to share
+- 👋 Hi, I’m Prado
+- 👀 I’m interested in to aprender e share
 - 🌱 I’m currently learning IA and Java Script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
